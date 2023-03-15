@@ -1,4 +1,3 @@
-dvc
-pandas
-scikit-learn
-joblib
+version https://git-lfs.github.com/spec/v1
+oid sha256:350972539016d748c1b2a1de4601378ed05a4169a344acffbdcadf2124d98c0f
+size 33
